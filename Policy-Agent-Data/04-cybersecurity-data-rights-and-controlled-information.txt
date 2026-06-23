@@ -1,0 +1,25 @@
+Cybersecurity, Controlled Information, and Data Rights Policy
+
+Controlled unclassified information
+Employees must protect controlled unclassified information, or CUI, according to contract requirements, customer instructions, approved systems, and company security policy. CUI must not be stored in unapproved repositories, personal devices, consumer cloud services, or unmanaged collaboration tools.
+
+Cybersecurity contract obligations
+Contracts may require specific cybersecurity controls, incident reporting timelines, access restrictions, encryption, logging, vulnerability management, supply chain controls, and approved environments. Employees must not assume that a normal commercial environment satisfies government contract obligations.
+
+Cyber incidents
+Suspected compromise, unauthorized access, improper disclosure, lost devices, misdirected files, malware, or accidental sharing of CUI must be reported immediately to Security and Contracts. Do not delay reporting while investigating independently.
+
+Data rights
+Technical data, software, drawings, models, test results, manuals, and deliverables created or delivered under a government contract may carry specific rights, restrictions, and markings. Employees must check the contract, statement of work, data rights clauses, legends, and deliverable markings before reusing or sharing the material.
+
+Reuse across contracts
+Reusing technical data or software from one government contract on another opportunity may be allowed, restricted, or prohibited depending on funding source, rights category, markings, customer permissions, and third-party restrictions. When rights are unclear, treat reuse as medium or high risk and contact Contracts or Legal.
+
+Markings and legends
+Employees must preserve required restrictive legends and markings. Removing or changing legends without approval is high risk. Delivering unmarked data when restrictions are required can waive rights or create disputes.
+
+Examples
+High risk: Uploading CUI to an unapproved public file sharing service.
+High risk: Reusing government-funded technical drawings in a new proposal without checking rights and markings.
+Medium risk: Sharing a software module developed under a prior government contract after Contracts confirms rights are unrestricted.
+Low risk: Sharing publicly released technical information that has no restrictive markings and is approved for distribution.

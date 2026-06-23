@@ -1,0 +1,24 @@
+Contracts Policy Overview for Government Contracting
+
+Purpose
+This sample policy gives employees practical guidance for U.S. government contracting activities. It is intended for demo use as a knowledge source for a Contracts Policy Agent. It is not legal advice and does not replace review by Contracts, Legal, Compliance, Security, or Finance.
+
+Core principle
+Employees must protect the integrity of the procurement process, comply with contract terms, and escalate before taking actions that could affect pricing, scope, data rights, cybersecurity, competition, or interactions with government officials.
+
+Risk levels
+Low risk: Routine administrative activity that is clearly permitted by the contract and internal process.
+Medium risk: Activity may be permitted but depends on contract terms, approvals, or missing facts.
+High risk: Activity may violate law, regulation, contract terms, or company policy, or may create protest, audit, false claims, cybersecurity, or ethics exposure.
+
+Required escalation
+Contact Contracts or Legal before acting when a question involves active source selection, procurement-sensitive information, competitor information, suspected conflicts of interest, contract interpretation, data rights, cybersecurity incidents, requests for free work, or government-directed scope changes.
+
+No informal approvals
+Employees may not rely on informal statements, verbal requests, text messages, or emails from unauthorized personnel to change contract scope, price, schedule, deliverables, data rights, security obligations, or compliance requirements.
+
+Recommended answer format for policy questions
+Short Answer: Say yes, no, or maybe when possible.
+Policy Basis: Identify the relevant policy topic.
+Risk Level: Low, Medium, or High.
+Recommended Next Step: Identify the function to contact or the action to take before proceeding.

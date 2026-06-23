@@ -1,0 +1,28 @@
+Organizational Conflicts of Interest and Subcontractor Flow-Down Policy
+
+Organizational conflicts of interest
+An organizational conflict of interest, or OCI, may occur when the company or a partner has unequal access to information, impaired objectivity, or biased ground rules. Employees must identify potential OCI issues early and escalate to Contracts and Legal before bidding, teaming, advising the customer, or performing work.
+
+Unequal access to information
+Unequal access may exist when a party has non-public information that could provide an unfair competitive advantage, such as incumbent performance data, competitor proposals, evaluation information, agency budget assumptions, or acquisition strategy not available to all competitors.
+
+Impaired objectivity
+Impaired objectivity may exist when the company would evaluate its own products, services, systems, partners, subcontractors, or prior work for the government.
+
+Biased ground rules
+Biased ground rules may exist when the company helps write specifications, statements of work, evaluation criteria, or acquisition strategy and then competes for the resulting work.
+
+Subcontractor flow-down clauses
+Subcontractors may not begin covered work until Contracts confirms that required flow-down clauses are included in the subcontract. Required flow-downs may include FAR clauses, DFARS clauses, cybersecurity requirements, data rights terms, export control terms, labor requirements, audit rights, records retention, small business commitments, and customer-specific terms.
+
+Starting work before flow-downs
+Allowing a subcontractor to begin work before required clauses are accepted is high risk. It can create breach of contract, cybersecurity, data rights, audit, export control, labor, and billing exposure.
+
+Teaming and partner diligence
+Before sharing non-public opportunity information with a teammate or subcontractor, employees must confirm that an appropriate nondisclosure agreement, teaming agreement, or subcontract is in place and that OCI, export control, and cybersecurity restrictions have been reviewed.
+
+Examples
+High risk: A subcontractor starts work before accepting required FAR, DFARS, cybersecurity, and data rights clauses.
+High risk: A business unit that helped draft the evaluation criteria competes for the same contract without an OCI review.
+Medium risk: A teammate has incumbent knowledge that may be public or non-public; Legal must determine whether a mitigation plan is required.
+Low risk: A subcontractor performs administrative support after Contracts confirms all required clauses and approvals are complete.

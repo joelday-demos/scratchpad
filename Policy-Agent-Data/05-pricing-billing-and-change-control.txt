@@ -1,0 +1,25 @@
+Pricing, Billing, and Contract Change Control Policy
+
+Pricing integrity
+Cost and pricing information submitted to the government must be current, accurate, complete, and supported by appropriate records when required by the contract or regulation. Employees must not alter, omit, backdate, or selectively present pricing support to mislead the government.
+
+Time charging and billing
+Employees must charge labor, materials, travel, and expenses only to the correct authorized contract, task, project, or cost objective. Charging work to the wrong contract, charging before authorization, or billing for unallowable work is high risk.
+
+Free work and unfunded work
+Employees must not perform free work, out-of-scope work, or unfunded work with the expectation that the contract will be modified later unless Contracts and Finance approve the approach in advance.
+
+Contracting officer authority
+Only an authorized contracting officer can change government contract scope, price, period of performance, terms, or deliverables. A contracting officer representative, program manager, technical monitor, end user, or other government employee may provide technical direction only within the existing contract scope and authority.
+
+Verbal direction
+Verbal direction is not enough to begin out-of-scope work. If a government contact requests a new feature, new deliverable, accelerated schedule, extra report, or different performance obligation, employees must pause and contact Contracts. Contracts will determine whether written direction, a modification, or other authorization is required.
+
+Change documentation
+Potential changes must be documented with the requestor, date, description, business impact, estimated cost, schedule impact, contract reference, and whether work has started. Work should not begin until authorization is confirmed.
+
+Examples
+High risk: Starting a new dashboard feature after a verbal request from a contracting officer representative without a contract modification.
+High risk: Charging proposal support or internal rework to a government contract without authorization.
+Medium risk: Preparing a rough order of magnitude estimate for a requested change after Contracts confirms it is only an estimate and not authorization to perform work.
+Low risk: Performing a task that is clearly included in the statement of work and funded under the current task order.
